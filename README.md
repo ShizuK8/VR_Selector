@@ -1,5 +1,5 @@
 ```
-git clone a https://https://github.com/ShizuK8/VR_Selector.git addons/vr_selector
+git clone https://github.com/ShizuK8/VR_Selector.git addons/vr_selector
 ```
 ```
 git submodule add https://https://github.com/ShizuK8/VR_Selector.git addons/vr_selector
